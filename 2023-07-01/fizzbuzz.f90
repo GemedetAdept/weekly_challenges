@@ -1,0 +1,6 @@
+PROGRAM fizzbuzz
+IMPLICIT NONE
+
+
+
+END PROGRAM
